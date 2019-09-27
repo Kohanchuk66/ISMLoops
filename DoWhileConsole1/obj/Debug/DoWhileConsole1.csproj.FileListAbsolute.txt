@@ -1,0 +1,6 @@
+E:\задание 1\ISMLoops\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe.config
+E:\задание 1\ISMLoops\DoWhileConsole1\bin\Debug\DoWhileConsole1.exe
+E:\задание 1\ISMLoops\DoWhileConsole1\bin\Debug\DoWhileConsole1.pdb
+E:\задание 1\ISMLoops\DoWhileConsole1\obj\Debug\DoWhileConsole1.exe
+E:\задание 1\ISMLoops\DoWhileConsole1\obj\Debug\DoWhileConsole1.pdb
+E:\задание 1\ISMLoops\DoWhileConsole1\obj\Debug\DoWhileConsole1.csprojAssemblyReference.cache

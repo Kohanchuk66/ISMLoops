@@ -1,0 +1,6 @@
+E:\задание 1\ISMLoops\ForConsole6\obj\Debug\ForConsole6.csprojAssemblyReference.cache
+E:\задание 1\ISMLoops\ForConsole6\bin\Debug\ForConsole6.exe.config
+E:\задание 1\ISMLoops\ForConsole6\bin\Debug\ForConsole6.exe
+E:\задание 1\ISMLoops\ForConsole6\bin\Debug\ForConsole6.pdb
+E:\задание 1\ISMLoops\ForConsole6\obj\Debug\ForConsole6.exe
+E:\задание 1\ISMLoops\ForConsole6\obj\Debug\ForConsole6.pdb

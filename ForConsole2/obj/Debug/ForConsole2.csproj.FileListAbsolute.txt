@@ -1,0 +1,5 @@
+E:\зад\ISMLoops\ForConsole2\bin\Debug\ForConsole2.exe.config
+E:\зад\ISMLoops\ForConsole2\bin\Debug\ForConsole2.exe
+E:\зад\ISMLoops\ForConsole2\bin\Debug\ForConsole2.pdb
+E:\зад\ISMLoops\ForConsole2\obj\Debug\ForConsole2.exe
+E:\зад\ISMLoops\ForConsole2\obj\Debug\ForConsole2.pdb

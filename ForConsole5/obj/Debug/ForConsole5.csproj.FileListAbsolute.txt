@@ -1,0 +1,11 @@
+E:\зад\ISMLoops\ForConsole5\bin\Debug\ForConsole5.exe.config
+E:\зад\ISMLoops\ForConsole5\bin\Debug\ForConsole5.exe
+E:\зад\ISMLoops\ForConsole5\bin\Debug\ForConsole5.pdb
+E:\зад\ISMLoops\ForConsole5\obj\Debug\ForConsole5.exe
+E:\зад\ISMLoops\ForConsole5\obj\Debug\ForConsole5.pdb
+E:\задание 1\ISMLoops\ForConsole5\bin\Debug\ForConsole5.exe.config
+E:\задание 1\ISMLoops\ForConsole5\bin\Debug\ForConsole5.exe
+E:\задание 1\ISMLoops\ForConsole5\bin\Debug\ForConsole5.pdb
+E:\задание 1\ISMLoops\ForConsole5\obj\Debug\ForConsole5.csprojAssemblyReference.cache
+E:\задание 1\ISMLoops\ForConsole5\obj\Debug\ForConsole5.exe
+E:\задание 1\ISMLoops\ForConsole5\obj\Debug\ForConsole5.pdb
